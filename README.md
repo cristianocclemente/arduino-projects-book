@@ -2,13 +2,13 @@
 
 The book consists of 15 projects:
 
-1. Get to Know Your Tool
+1. [Get to Know Your Tool](./setting-up/Setting-Up.ino)
 
-2. Spaceship Interface
+2. [Spaceship Interface](./spaceship-interface/Spaceship-Interface.ino)
 
-3. Love-o-Meter
+3. [Love-o-Meter](./love-o-meter/Love-o-Meter.ino)
 
-4. Color Mixing Lamp
+4. [Color Mixing Lamp](./color-mixing-lamp/Color-Mixing-Lamp.ino)
 
 5. Mood Cue
 
