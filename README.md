@@ -10,9 +10,9 @@ The book consists of 15 projects:
 
 4. [Color Mixing Lamp](./color-mixing-lamp/Color-Mixing-Lamp.ino)
 
-5. Mood Cue
+5. [Mood Cue](./mood-cue/Mood-Cue.ino)
 
-6. Light Theremin
+6. [Light Theremin](./light-theremin/Light-Theremin.ino)
 
 7. Keyboard Instrument
 
