@@ -31,3 +31,7 @@ The book consists of 15 projects:
 14. Tweak the Arduino Logo
 
 15. Hacking Buttons
+
+![alt text](digital-hourglass/digital_hourglass.jpg "Project 8: Digital Hourglass")
+
+Project 8: Digital Hourglass
