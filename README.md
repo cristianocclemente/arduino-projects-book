@@ -14,23 +14,23 @@ The book consists of 15 projects:
 
 6. [Light Theremin](./light-theremin/Light-Theremin.ino)
 
-7. Keyboard Instrument
+7. [Keyboard Instrument](./keyboard-instrument/Keyboard-Instrument.ino)
 
-8. Digital Hourglass
+8. [Digital Hourglass](./digital-hourglass/Digital-Hourglass.ino)
 
-9. Motorized Pinwheel
+9. [Motorized Pinwheel](./motorized-pinwheel/Motorized-Pinwheel.ino)
 
-10. Zoetrope
+10. [Zoetrope](./zoetrope/Zoetrope.ino)
 
-11. Crystall Ball
+11. [Crystal Ball](./crystal-ball/Crystal-Ball.ino)
 
-12. Knock Lock
+12. [Knock Lock](./knock-lock/Knock-Lock.ino)
 
-13. Touchy-feely Lamp
+13. [Touchy-Feely Lamp](./touchy-feely-lamp/Touchy-Feely-Lamp.ino)
 
-14. Tweak the Arduino Logo
+14. [Tweak the Arduino Logo](./tweak-arduino-logo)
 
-15. Hacking Buttons
+15. [Hacking Buttons](./hacking-buttons/Hacking-Buttons.ino)
 
 ![alt text](digital-hourglass/digital_hourglass.jpg "Project 8: Digital Hourglass")
 
