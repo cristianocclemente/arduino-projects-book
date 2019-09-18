@@ -32,6 +32,4 @@ The book consists of 15 projects:
 
 15. [Hacking Buttons](./hacking-buttons/Hacking-Buttons.ino)
 
-![alt text](digital-hourglass/digital_hourglass.jpg "Project 8: Digital Hourglass")
-
-Project 8: Digital Hourglass
+![alt text](starter-kit.jpg "Starter Kit Image")
