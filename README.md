@@ -32,4 +32,4 @@ The book consists of 15 projects:
 
 15. [Hacking Buttons](./hacking-buttons/Hacking-Buttons.ino)
 
-![alt text](starter-kit.jpg "Starter Kit Image")
+![alt text](_imgs/starter-kit.jpg "Starter Kit Image")
